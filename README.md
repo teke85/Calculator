@@ -10,9 +10,9 @@ This is a Simple Calculator with basic functionality.
 ## ScreenShot
 ![JavaScript Calculator](https://user-images.githubusercontent.com/29442846/184099310-37fe666a-2cf2-4a6e-8bc6-4bb29fb93fed.png)
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://teke85.github.io/Calculator/)
+https://teke85.github.io/Calculator/
 
 To get a local copy up and running follow these simple example steps.
 
