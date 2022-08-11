@@ -6,12 +6,12 @@
 
 body {
   background: whitesmoke;
-  /* background: rgb(135, 182, 222);
+  background: rgb(135, 182, 222);
   background: linear-gradient(
     90deg,
     rgba(135, 182, 222, 0.9640231092436975) 0%,
     rgba(0, 212, 255, 1) 100%
-  ); */
+  );
   min-height: 100vh;
   display: flex;
   justify-content: center;
