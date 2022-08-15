@@ -1,4 +1,4 @@
-# Simple Calcultor
+# Simple Calculator
 
 > Description of the project.
 This is a Simple Calculator with basic functionality.
